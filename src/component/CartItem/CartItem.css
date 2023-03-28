@@ -1,0 +1,14 @@
+.trash {
+    width: 0.8rem;
+    margin-right: 0.3rem;
+}
+
+.quantityCart {
+    margin-left: 1.5rem;
+}
+
+.cartList {
+    list-style: none;
+    border-bottom: 1px solid black;
+    margin-bottom: 0.5rem;
+}

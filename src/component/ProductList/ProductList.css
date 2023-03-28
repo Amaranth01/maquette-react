@@ -1,0 +1,39 @@
+.list {
+    margin-top: 5rem;
+    width: 65vw;
+}
+
+.productList {
+    list-style: none;
+}
+
+.imgProduct {
+    width: 7rem;
+}
+
+.details {
+    display: flex;
+}
+
+.description, .name, .price {
+    margin-left: 6rem;
+}
+
+.description {
+    font-size: 0.96rem;
+    width: 35rem;
+}
+
+.name {
+    font-size: 1.2rem ;
+}
+
+.price {
+    margin-left: 36rem;
+    font-size: 1.8rem;
+    font-weight: bold;
+}
+
+.detailsProduct {
+    margin-bottom: 1rem;
+}

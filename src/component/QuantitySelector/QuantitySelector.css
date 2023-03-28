@@ -1,0 +1,24 @@
+.quantity {
+    margin-left: 6rem;
+    margin-top: -2rem;
+    border: whitesmoke;
+    background-color: white;
+    width: 5.6rem;
+}
+
+.number {
+    width: 3rem;
+}
+
+button, .number {
+    border: none;
+    padding: 0.3rem;
+}
+
+button {
+    background-color: whitesmoke;
+}
+
+button:hover {
+    background-color: dodgerblue;
+}
